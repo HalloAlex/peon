@@ -1,0 +1,26 @@
+{
+  "name": "peon",
+  "version": "0.0.0",
+  "description": "peon",
+  "keywords": [
+    "peon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HalloAlex/peon.git"
+  },
+  "author": "qiangxu <qiangxu@wholeeprime.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/peon.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
