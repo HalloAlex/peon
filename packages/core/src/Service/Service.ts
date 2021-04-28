@@ -1,6 +1,6 @@
 class Service {
     constructor () {
-        console.log('Service1')
+        console.log('Service')
     }
 }
 
