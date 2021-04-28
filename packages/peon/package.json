@@ -1,5 +1,5 @@
 {
-  "name": "peon",
+  "name": "wpeon",
   "version": "1.0.0",
   "description": "peon",
   "keywords": [
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "49910633aef621185ed98cca86042d7dd7e65856"
+  "gitHead": "2517469373ceecce902ac496961c0fcbc466a922"
 }
