@@ -4,5 +4,5 @@ new Service({
     cwd: '',
     pkg: '',
 }).run({
-    name: 'dev1'
+    name: 'dev'
 });
